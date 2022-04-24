@@ -7,6 +7,7 @@ import java.util.Date;
  *
  */
 public class Student extends StudentKey {
+    private static final long serialVersionUID = -3681949430372072443L;
     private final String hometown;
     private final Date birthDate;
     private final boolean hasDormitory;

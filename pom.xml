@@ -12,6 +12,7 @@
 
     <modules>
         <module>homework-base</module>
+        <module>homework-maksimov-ilya</module>
     </modules>
 
     <build>
